@@ -1,4 +1,4 @@
-﻿namespace SimpleRobot.Logic
+﻿namespace SimpleRobotLogic
 {
     internal enum Direction
     {
