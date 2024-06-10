@@ -49,9 +49,9 @@
             var newRow = _row + deltaRow;
             var newCol = _col + deltaCol;
             var isOutsideBounds = newRow < 0 
-                    || newRow >= Console.WindowWidth
+                    || newRow >= Console.WindowHeight
                     || newCol < 0 
-                    || newCol >= Console.WindowHeight;
+                    || newCol >= Console.WindowWidth;
             if (isOutsideBounds) return false;
             _col = newCol;
             _row = newRow;
