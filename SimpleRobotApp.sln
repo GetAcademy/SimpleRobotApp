@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleRobot.Console", "SimpleRobot.Console\SimpleRobot.Console.csproj", "{69C52BAB-6F38-4E69-9AEA-3A3EA8241D24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleRobot.Logic", "SimpleRobot.Logic\SimpleRobot.Logic.csproj", "{3F888855-C251-4C85-A3C1-200523A595C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69C52BAB-6F38-4E69-9AEA-3A3EA8241D24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C52BAB-6F38-4E69-9AEA-3A3EA8241D24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C52BAB-6F38-4E69-9AEA-3A3EA8241D24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C52BAB-6F38-4E69-9AEA-3A3EA8241D24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F888855-C251-4C85-A3C1-200523A595C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F888855-C251-4C85-A3C1-200523A595C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F888855-C251-4C85-A3C1-200523A595C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F888855-C251-4C85-A3C1-200523A595C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B1CFCD5-1768-410D-9885-1306B8292B7E}
+	EndGlobalSection
+EndGlobal
